@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CHAMBIT</string>
+    <string name="recharge">Pay and Earn </string>
+    <string name="recharge_text">Payments made easier and rewarding with Raflex app!
+Enjoy amazing cash-back up to 10% on all your daily spending when you pay with RNGN.</string>
+    <string name="scan_pay">Trade with confidence</string>
+    <string name="scan_pay_text">No hidden charges \n Get started</string>
+    <string name="send_money">Make Money</string>
+    <string name="send_money_text">Become a Raflex Merchant and buy our products at cheaper rates and resell them to your customers and others at reasonably higher rates.</string>
+</resources>
